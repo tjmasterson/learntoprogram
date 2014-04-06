@@ -1,4 +1,4 @@
-uts "Enter words and then press enter on an empty line and I will return an alphabetical list"
+puts "Enter words and then press enter on an empty line and I will return an alphabetical list"
 
 def shuffle arr
     shuf = []
